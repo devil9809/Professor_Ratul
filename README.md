@@ -1,4 +1,4 @@
-## [OneShot](https://github.com/devil9809/Ratul) installer for [Termux](https://termux.com/)
+## [Ratul](https://github.com/devil9809/Ratul) installer for [Termux](https://termux.com/)
 ### Setup
 ```
 curl -sSf https://raw.githubusercontent.com/devil9809/Professor_Ratul/main/installer.sh | bash
