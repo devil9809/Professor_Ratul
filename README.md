@@ -11,5 +11,6 @@ sudo python Ratul/ratul.py -i wlan0 -K
 ### How to update OneShot
 To check for updates and update, run the following command:
 ```
-(cd Ratul && git pull)  Great Thnx to Professor Ratul
+(cd Ratul && git pull)
 ```
+Great Thnx to Professor Ratul
