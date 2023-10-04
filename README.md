@@ -8,7 +8,7 @@ Disable Wi-Fi in the system settings and run:
 ```
 sudo python Ratul/ratul.py -i wlan0 -K
 ```
-### How to update OneShot
+### How to update Ratul
 To check for updates and update, run the following command:
 ```
 (cd Ratul && git pull)
