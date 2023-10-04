@@ -2,8 +2,8 @@
 pkg install -y root-repo 
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+git clone --depth 1 https://github.com/devil9809/Ratul Ratul
 
-chmod +x OneShot/oneshot.py
+chmod +x Ratul/ratul.py
 
-printf "###############################################\n#  All done! Now you can run OneShot with\n#   sudo python OneShot/oneshot.py -i wlan0 -K\n#\n#  To update, run\n#   (cd OneShot && git pull)\n###############################################\n"
+printf "###############################################\n#  All done! Now you can run Professor Ratul with\n#   sudo python Ratul/ratul.py -i wlan0 -K\n#\n#  To update, run\n#   (cd Ratul && git pull)\n###############################################\n"
