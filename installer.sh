@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install -y root-repo 
+termux-setup-storage
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 
 git clone --depth 1 https://github.com/devil9809/Ratul Ratul
