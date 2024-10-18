@@ -9,6 +9,9 @@ curl -sSf https://raw.githubusercontent.com/devil9809/Professor_Ratul/main/insta
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
+sudo python Ratul/ratul.py -i wlan0 -K
+```
+```
 sudo python Ratul/ratulx.py -i wlan0 -K
 ```
 ### How to update Ratul
